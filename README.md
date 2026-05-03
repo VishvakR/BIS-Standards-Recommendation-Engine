@@ -66,13 +66,14 @@ python scripts/ingest_bis.py --pdf data/dataset.pdf
 
 ```bash
 python inference.py --input data/public_test_set.json --output results.json
-python3 eval_script.py --results results.json
 ```
 
 ### 5. Evaluate results
 
 ```bash
 python eval_script.py --predictions results.json --ground_truth data/public_test_set.json
+
+python3 eval_script.py --results results.json
 ```
 
 ---
