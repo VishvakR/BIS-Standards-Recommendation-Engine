@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PUB-01",
+    "query": "We are a small enterprise manufacturing 33 Grade Ordinary Portland Cement. Which BIS standard covers the chemical and physical requirements for our product?",
+    "expected_standards": ["IS 269: 1989"]
+  },
+  {
+    "id": "PUB-02",
+    "query": "I need to comply with the regulations for coarse and fine aggregates derived from natural sources intended for use in structural concrete.",
+    "expected_standards": ["IS 383: 1970"]
+  },
+  {
+    "id": "PUB-03",
+    "query": "We produce 43 Grade Ordinary Portland Cement and want to ensure it meets the required strength and fineness criteria as per Indian Standards.",
+    "expected_standards": ["IS 8112: 1989"]
+  },
+  {
+    "id": "PUB-04",
+    "query": "Our factory manufactures Portland Pozzolana Cement using fly ash as the pozzolanic material. What BIS standard should we follow?",
+    "expected_standards": ["IS 1489 (Part 1): 1991"]
+  },
+  {
+    "id": "PUB-05",
+    "query": "I need to find the Indian Standard that specifies requirements for 53 Grade Ordinary Portland Cement used in high-strength concrete applications.",
+    "expected_standards": ["IS 12269: 1987"]
+  },
+  {
+    "id": "PUB-06",
+    "query": "We manufacture Portland Slag Cement using granulated blast furnace slag. Which standard covers the specification for this type of cement?",
+    "expected_standards": ["IS 455: 1989"]
+  },
+  {
+    "id": "PUB-07",
+    "query": "Our company produces precast concrete pipes for non-pressure use in drainage and sewerage. What BIS standard applies?",
+    "expected_standards": ["IS 458: 2003"]
+  },
+  {
+    "id": "PUB-08",
+    "query": "We manufacture concrete hollow blocks for load-bearing and non-load-bearing walls. Which Indian Standard should we comply with?",
+    "expected_standards": ["IS 2185 (Part 1): 1979"]
+  },
+  {
+    "id": "PUB-09",
+    "query": "I need the standard for determining the specific gravity and water absorption of coarse and fine aggregates used in concrete production.",
+    "expected_standards": ["IS 2386 (Part 3): 1963"]
+  },
+  {
+    "id": "PUB-10",
+    "query": "We produce ready-mixed concrete and need to know which BIS standard covers the requirements for ready-mixed concrete production and delivery.",
+    "expected_standards": ["IS 4926: 1976"]
+  }
+]
