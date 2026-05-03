@@ -1,0 +1,33 @@
+# BIS Standards Recommendation Engine — Dependencies
+
+# Core
+fastapi>=0.135.1
+uvicorn[standard]>=0.34.0
+python-dotenv>=1.2.1
+python-multipart>=0.0.20
+pydantic>=2.0
+
+# PDF Processing
+PyMuPDF>=1.24.0
+pdfplumber>=0.11.0
+
+# LangChain
+langchain>=0.2.0
+langchain-chroma>=0.1.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-ollama>=0.1.0
+langchain-openai>=0.1.0
+
+# Vector Store
+chromadb>=0.5.0
+
+# Embeddings & Retrieval
+sentence-transformers>=3.0.0
+rank-bm25>=0.2.2
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# Utilities
+certifi>=2024.0.0
